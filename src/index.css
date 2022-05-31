@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+  margin : 0;
+  padding : 0;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.footer{
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content : space-between;
+}
+#app{
+  background-image: url("krista-mangulsone-9gz3wfHr65U-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+.rating{
+  font-size: 25px;
+  color: rgb(54, 54, 54);
+  background-color: rgb(192, 169, 0);
+  border-radius: 3px;
+  margin-right: .5rem;
+  font-weight: 900;
+  padding: 0 .3rem
+}
+.search-results {
+  position: absolute;
+  /* background: #fff; */
+  /* width: 100%; */
+  /* box-sizing: border-box; */
+  /* border: 1px solid #e1e1e1; */
+  /* top: 42px; */
+  /* border-bottom-left-radius: 5px; */
+  /* border-bottom-right-radius: 5px; */
+  z-index: 100;
+}
+.movie-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+/* .search-result .movie-info button {
+  margin: 20px 10px;
+  background: #00704e;
+  color: #fff;
+  font-weight: 600;
+  width: 120px;
+  font-size: 14px;
+  border: none;
+  padding: 9px 0;
+  border-radius: 4px;
+} */
+.movie-info button:hover{
+  background-color: #03e16a;
+}
+/* .search-result {
+  display: flex;
+}
+.search-result img {
+  height: 150px;
+} */
+/* .search-result > div span {
+  font-size: 20px;
+  padding: 10px;
+  font-weight: 600;
+} */
+/* @media only screen and (max-width: 600px) {
+ .search-image {
+    height:60px;
+    width:30px;
+  }
+} */
+.petLink{
+  font-size: 20px;
+}

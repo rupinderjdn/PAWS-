@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56b85b2d.css",
+    "main.js": "/static/js/main.75d92f99.js",
+    "static/js/787.7c42db31.chunk.js": "/static/js/787.7c42db31.chunk.js",
+    "static/media/krista-mangulsone-9gz3wfHr65U-unsplash.jpg": "/static/media/krista-mangulsone-9gz3wfHr65U-unsplash.9f1e248cff3de0c125ee.jpg",
+    "index.html": "/index.html",
+    "main.56b85b2d.css.map": "/static/css/main.56b85b2d.css.map",
+    "main.75d92f99.js.map": "/static/js/main.75d92f99.js.map",
+    "787.7c42db31.chunk.js.map": "/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b85b2d.css",
+    "static/js/main.75d92f99.js"
+  ]
+}
